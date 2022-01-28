@@ -1,0 +1,59 @@
+*{
+	background-size: cover;
+	margin:auto;
+	padding:0;
+	font-family:Lucida Calligraphy;
+}
+
+ul{ 
+	float:"center";
+	list-style-type:none;
+	margin-top:0px;
+}
+
+ul li{ padding:10px;
+		display:inline-block;
+}
+
+ul li a{
+		text-decoration:none;
+		font-size:23;
+		color:blue;
+		padding:5px 5px;
+		border:1px solid blue;
+		transition:0.6s ease;
+}
+
+ul li a:hover{
+		background-color:blue;
+		color:#fff;
+}
+
+.logo img{
+		width:150px;
+		height:auto;
+}
+
+.logo1 img{
+		width:150px;
+		height:auto;
+}
+
+.main{
+	text-align:center;
+	max-width=1200px;
+	margin:auto;
+	
+}
+
+.title p{
+	font-family:Segoe Script;
+	font-style:Bold Oblique;
+	font-size:40;
+	color:red;
+}
+
+footer marquee{
+	font-style:Bold;
+	font-size:20;
+}

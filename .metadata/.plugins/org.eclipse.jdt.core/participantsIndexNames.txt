@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Battle\Elipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1182159281.index
+\spicestore\src

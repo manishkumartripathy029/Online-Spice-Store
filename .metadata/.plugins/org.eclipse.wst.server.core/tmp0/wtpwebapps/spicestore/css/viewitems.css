@@ -1,0 +1,72 @@
+
+.p1{
+	font-size:  45px;
+	font-family: segoe script;
+	color: black;
+}
+.tbl{
+	border: dotted;;
+	border-style: inherit;
+	border-color: rgb(0,0,0);
+}
+
+.hh1
+{
+border: transparent;
+}
+
+td{
+	color: rgb(0,0,0);
+	padding-bottom: 20px;
+	font-size:22px;
+	text-align: center;
+}
+th{
+	border: transparent;
+	color: rgb(121, 5, 5);
+	padding-bottom: 20px;
+	font-size:20px;
+	text-align: center;
+}
+.ois{
+	color: rgb(51, 0, 255);
+	padding-bottom: 20px;
+	font-size:22px;
+	text-align: center;
+	border: transparent;
+}
+
+
+input[type=text]{
+	width: 150px;
+	height: 40px;
+	border: 2px solid rgb(56, 245, 30);
+	border-radius: 5px;
+	font-size: 20px;
+	text-align: center;
+}
+input[type=button]{
+	width: 200px;
+	height: 40px;
+	border: 2px solid rgb(56, 245, 30);
+	border-radius: 25px;
+	font-size: 20px;
+}
+input[type=submit]{
+	width: 200px;
+	height: 40px;
+	border: 2px solid rgb(56, 245, 30);
+	border-radius: 25px;
+	font-size: 20px;
+}
+	input[type=reset]{
+	width: 200px;
+	height: 40px;
+	border: 2px solid rgb(56, 245, 30);
+	border-radius: 25px;
+	font-size: 20px;
+	margin-right: 20px;
+}
+a{
+	font-size: 20px;
+}

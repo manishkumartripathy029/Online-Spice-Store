@@ -1,0 +1,55 @@
+body{
+	background:rgb(0,244,255);
+	background-size: cover;
+}	
+	
+}
+.p1{
+	
+	font-size:  45px;
+	font-family: segoe script;
+	color: white;
+}
+td{
+	color: rgb(136, 138, 172);
+	padding-bottom: 30px;
+	font-size:25px;
+	text-align: center;
+}
+table{
+	margin-top: 20px;
+}
+
+input[type=text]{
+	width: 300px;
+	height: 40px;
+	border: 2px solid rgb(69, 30, 245);
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+textarea{
+	height: 120px;
+	width: 300px;
+	resize: none;
+	border: 2px solid rgb(69, 30, 245);
+	border-radius: 10px;
+	font-size: 12px;
+}
+input[type=button]{
+	width: 200px;
+	height: 40px;
+	border: 2px solid rgb(69, 30, 245);
+	border-radius: 10px;
+	font-size: 20px;
+}
+
+}
+	input[type=reset]{
+	width: 200px;
+	height: 40px;
+	border: 2px solid rgb(69, 30, 245);
+	border-radius: 10px;
+	font-size: 20px;
+	margin-right: 20px;
+}
